@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\bin\Debug\pqchat.exe.config
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\bin\Debug\pqchat.exe
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\bin\Debug\pqchat.pdb
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\bin\Debug\MephTheme.dll
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\bin\Debug\MephTheme.pdb
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\bin\Debug\MephTheme.xml
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\obj\Debug\pqchat.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\obj\Debug\pqchat.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\obj\Debug\pqchat.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\obj\Debug\pqchat.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\obj\Debug\pqchat.exe
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\obj\Debug\pqchat.pdb
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\pqchat\obj\Debug\pqchat.Form1.resources

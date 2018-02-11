@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\bin\Debug\MephTheme.dll
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\bin\Debug\MephTheme.pdb
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\bin\Debug\MephTheme.xml
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\obj\Debug\MephTheme.vbprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\obj\Debug\MephTheme.Resources.resources
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\obj\Debug\MephTheme.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\obj\Debug\MephTheme.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\obj\Debug\MephTheme.dll
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\obj\Debug\MephTheme.xml
+C:\Users\PC\Documents\GitHub\pqchat\pqchat\MephTheme\obj\Debug\MephTheme.pdb
